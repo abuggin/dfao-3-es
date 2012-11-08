@@ -1,4 +1,9 @@
-
+/**
+ * 3.8 - Alessandro Buggin
+ * programma 
+ * 
+ **/
+ 
 import prog.io.*;
 import prog.utili.Intero;
 
